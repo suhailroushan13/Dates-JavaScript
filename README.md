@@ -5,7 +5,7 @@
 
 - [Suhail Roushan](https://www.github.com/suhailroushan13)
 
-## 6. Installation of CLI  <br>
+## Installation of CLI  <br>
 To run the CLI
 ```bash
   git clone git@github.com:suhailroushan13/Dates-JavaScript.git
